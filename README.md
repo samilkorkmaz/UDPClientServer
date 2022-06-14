@@ -1,4 +1,3 @@
-# UDPClientServer
-UDP Client/Server with C#
+UDP client/server demo with C#
 <br><br>
 ![alt text](screenshot.png)
